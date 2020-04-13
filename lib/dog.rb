@@ -1,2 +1,2 @@
-class Dog < Ac
+class Dog < Active
 end
